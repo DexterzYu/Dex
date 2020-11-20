@@ -284,4 +284,3 @@ while message.role2["result"]!=1:
     time.sleep(1)
 
 message.push()
-'''
